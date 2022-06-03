@@ -29,7 +29,7 @@ export default function Header() {
             lineHeight={1.2}
             fontSize={useBreakpointValue({ base: "3xl", md: "4xl" })}
           >
-            The Premier Security Firm.
+            Smart Contract Development
           </Text>
           {/* <Stack direction={"row"}>
             <Button
